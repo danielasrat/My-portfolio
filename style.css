@@ -1,0 +1,15 @@
+body{
+    font-family: sans-serif;
+    background-color: linen;
+}
+#profilePhoto{
+    width: 150px;
+    height:150px
+
+}
+
+.box{
+    border: 1px solid black;
+    border-left: hidden;
+    border-right: hidden;
+}   
